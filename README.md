@@ -1,6 +1,6 @@
 # 🚀 Solidity DeFi Portfolio
 
-This repository documents my journey to becoming a Solidity developer.
+Focused on building real-world DeFi smart contracts and becoming job-ready within 12 months.
 
 I am building real smart contracts, deploying them on Sepolia, and recording on-chain proofs.
 
@@ -81,6 +81,8 @@ All transactions and deployments are recorded in:
 ---
 
 ## 📬 Contact
+
+Open to junior Solidity / Web3 opportunities (remote / freelance).
 
 Available for:
 - Smart contract development
